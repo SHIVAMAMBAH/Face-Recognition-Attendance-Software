@@ -32,15 +32,9 @@ jobs:
     
     - name: Run tests
       run: |
-        python -m unittest discover  # Adjust this command if you're using other testing frameworks
+        python -m unittest discover -v  # Adjust this command if you're using other testing frameworks
         # or run specific test files here
 
-    - name: Run the main script (Optional)
+    - name: Run the main script 
       run: |
         python main.py  # If you want to run the main script as part of the workflow
-
-    - name: Upload Test Results (Optional)
-      if: always()
-      run: |
-        # If you are using test frameworks like pytest, you can upload results here
-        # e.g. using the `actions/upload-artifact@v2` action to upload test results
