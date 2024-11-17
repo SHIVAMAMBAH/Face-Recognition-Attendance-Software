@@ -26,9 +26,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt  # Installs the dependencies from requirements.txt
     
-    - name: Check if database exists
+    - name: Debug - List files and check database
       run: |
         ls -l student.db  # Check if the database file exists
+        sqlite3 student.db "SELECT name FROM sqlite_master WHERE type='table';"  # Check if the database exists
     
     - name: Run tests
       run: |
