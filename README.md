@@ -3,5 +3,4 @@
 
 **OR** We can create the excel in the pretime and when the software is used to scan the faces of the students, it just check the column or write the Absent or Present in the file.<br>
 
-
 We can use a pandas library to make a csv file with the names of the stdents already mentioned in the file. Whenever the scanning happpens a new columns (the name of the column should be the date and time) add to the file and save tht file.
