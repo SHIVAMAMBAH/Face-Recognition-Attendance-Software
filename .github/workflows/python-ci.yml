@@ -28,7 +28,7 @@ jobs:
     
     - name: Debug - List files and check database
       run: |
-        ls -l student.db  # Check if the database file exists
+        ls -l students.db  # Check if the database file exists
         sqlite3 students.db "SELECT name FROM sqlite_master WHERE type='table';"  # Check if the database exists
     
     - name: Run tests
