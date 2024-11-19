@@ -1,15 +1,3 @@
-
-
-# # Example: Insert face encodings into the database
-# try:
-#     insert_face_encoding('Shivam Sharma', '101', r'C:\Users\Harshit\Downloads\new\new\images\WhatsApp Image 2024-09-15 at 20.03.43.jpeg')
-#     insert_face_encoding('Harshit Dixit', '103', r'C:\Users\Harshit\Downloads\new\new\images\WhatsApp Image 2024-11-17 at 15.21.19.jpeg')
-# except ValueError as e:
-#     print(e)
-
-# # Close the connection
-# conn.close()
-
 import sqlite3
 import face_recognition
 import numpy as np
