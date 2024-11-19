@@ -1,5 +1,4 @@
 
-# #         binary_data = file.read()
 # #     return binary_data
 
 # # # Function to insert image into SQLite database
