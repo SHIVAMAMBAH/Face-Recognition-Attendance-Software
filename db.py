@@ -1,5 +1,4 @@
 
-# import numpy as np
 # import os
 
 # # Connect to SQLite (or create the database file if it doesn't exist)
