@@ -1,8 +1,4 @@
 
-# #     conn.commit()
-# #     print(f"Face encoding for {name} inserted successfully!")
-
-# def insert_face_encoding(name, roll_number, image_path):
 #     try:
 #         encoding = get_face_encoding(image_path)
 #         encoding_blob = np.array(encoding).tobytes()  # Convert encoding to binary
