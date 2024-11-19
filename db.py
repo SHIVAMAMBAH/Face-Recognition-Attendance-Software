@@ -1,5 +1,4 @@
 
-# #                     image BLOB NOT NULL
 # #                 )''')
 
 # # # Function to convert image to binary data
