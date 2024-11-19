@@ -1,5 +1,3 @@
-
-# # # Function to convert image to binary data
 # # def convert_to_binary_data(filename):
 # #     with open(filename, 'rb') as file:
 # #         binary_data = file.read()
