@@ -1,5 +1,4 @@
 
-# #     conn.commit()
 # #     print(f"Image for {name} inserted successfully!")
 
 # # # Example: Insert an image into the database
