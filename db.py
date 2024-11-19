@@ -1,5 +1,4 @@
 
-# # conn.close()
 
 # import sqlite3
 # import face_recognition
