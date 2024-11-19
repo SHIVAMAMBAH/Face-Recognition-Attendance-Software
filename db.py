@@ -1,5 +1,4 @@
 
-# #     with open(filename, 'rb') as file:
 # #         binary_data = file.read()
 # #     return binary_data
 
