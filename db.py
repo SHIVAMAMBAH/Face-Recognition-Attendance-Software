@@ -1,6 +1,4 @@
 
-# import os
-
 # # Connect to SQLite (or create the database file if it doesn't exist)
 # conn = sqlite3.connect('students.db')
 # cursor = conn.cursor()
