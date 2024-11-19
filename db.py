@@ -1,5 +1,4 @@
 
-# #     print(f"Image for {name} inserted successfully!")
 
 # # # Example: Insert an image into the database
 # # insert_image('Shivam Sharma', '101', 'C:\Users\Harshit\Downloads\new\new\images\WhatsApp Image 2024-09-15 at 20.03.43.jpeg')
