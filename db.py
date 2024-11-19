@@ -1,5 +1,4 @@
 
-# #     image = convert_to_binary_data(image_path)
 # #     cursor.execute("INSERT INTO students (name, roll_number, image) VALUES (?, ?, ?)", (name, roll_number, image))
 # #     conn.commit()
 # #     print(f"Image for {name} inserted successfully!")
