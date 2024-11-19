@@ -1,5 +1,4 @@
 
-# conn = sqlite3.connect('students.db')
 # cursor = conn.cursor()
 
 # # Update the table structure to store face encodings
