@@ -1,5 +1,4 @@
 
-# #     cursor.execute("INSERT INTO students (name, roll_number, image) VALUES (?, ?, ?)", (name, roll_number, image))
 # #     conn.commit()
 # #     print(f"Image for {name} inserted successfully!")
 
