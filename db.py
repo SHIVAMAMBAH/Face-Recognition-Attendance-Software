@@ -1,11 +1,4 @@
 
-
-# # Function to insert face encoding into SQLite database
-# # def insert_face_encoding(name, roll_number, image_path):
-# #     encoding = get_face_encoding(image_path)
-# #     encoding_blob = np.array(encoding).tobytes()  # Convert encoding to binary
-# #     cursor.execute("INSERT INTO students (name, roll_number, face_encoding) VALUES (?, ?, ?)",
-# #                    (name, roll_number, encoding_blob))
 # #     conn.commit()
 # #     print(f"Face encoding for {name} inserted successfully!")
 
