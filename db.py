@@ -1,6 +1,4 @@
 
-
-# # # Close the connection
 # # conn.close()
 
 # import sqlite3
