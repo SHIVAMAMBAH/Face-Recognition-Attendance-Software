@@ -1,5 +1,4 @@
 
-# # cursor = conn.cursor()
 
 # # # Create a table to store student names and their images
 # # cursor.execute('''CREATE TABLE IF NOT EXISTS students (
