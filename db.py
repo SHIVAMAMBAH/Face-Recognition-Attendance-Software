@@ -1,6 +1,4 @@
 
-
-# # # Example: Insert an image into the database
 # # insert_image('Shivam Sharma', '101', 'C:\Users\Harshit\Downloads\new\new\images\WhatsApp Image 2024-09-15 at 20.03.43.jpeg')
 # # insert_image('Naitik Singhal', '102', 'C:\Users\Harshit\Downloads\new\new\images\IMG_20241020_230518.jpg')
 # # insert_image('Harshit Dixit', '103', 'C:\Users\Harshit\Downloads\new\new\images\WhatsApp Image 2024-11-17 at 15.21.19.jpeg')
