@@ -1,5 +1,4 @@
 
-# cursor = conn.cursor()
 
 # # Update the table structure to store face encodings
 # cursor.execute('''CREATE TABLE IF NOT EXISTS students (
