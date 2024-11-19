@@ -1,13 +1,5 @@
 
 
-# # Function to encode face from image
-# def get_face_encoding(image_path):
-#     image = face_recognition.load_image_file(image_path)
-#     encodings = face_recognition.face_encodings(image)
-#     if len(encodings) == 0:
-#         raise ValueError(f"No face found in {image_path}")
-#     return encodings[0]
-
 # # Function to insert face encoding into SQLite database
 # # def insert_face_encoding(name, roll_number, image_path):
 # #     encoding = get_face_encoding(image_path)
