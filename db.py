@@ -1,5 +1,4 @@
 
-# #                     id INTEGER PRIMARY KEY AUTOINCREMENT,
 # #                     name TEXT NOT NULL,
 # #                     roll_number TEXT NOT NULL,
 # #                     image BLOB NOT NULL
