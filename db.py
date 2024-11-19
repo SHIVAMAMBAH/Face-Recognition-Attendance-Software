@@ -1,5 +1,4 @@
 
-# #                     roll_number TEXT NOT NULL,
 # #                     image BLOB NOT NULL
 # #                 )''')
 
