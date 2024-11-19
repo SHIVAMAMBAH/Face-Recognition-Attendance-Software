@@ -1,5 +1,4 @@
 
-# # conn = sqlite3.connect('students.db')
 # # cursor = conn.cursor()
 
 # # # Create a table to store student names and their images
