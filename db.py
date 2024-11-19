@@ -1,11 +1,4 @@
 
-#         conn.commit()
-#         print(f"Face encoding for {name} inserted successfully!")
-#     except ValueError as e:
-#         print(f"Error processing {image_path}: {e}")
-#     except Exception as db_error:
-#         print(f"Database error: {db_error}")
-
 
 # # Example: Insert face encodings into the database
 # try:
