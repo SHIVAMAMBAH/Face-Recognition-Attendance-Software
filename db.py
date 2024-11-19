@@ -1,12 +1,5 @@
 
 
-#                     id INTEGER PRIMARY KEY AUTOINCREMENT,
-#                     name TEXT NOT NULL,
-#                     roll_number TEXT NOT NULL,
-#                     face_encoding BLOB NOT NULL
-#                 )''')
-# conn.commit()
-
 # # Function to encode face from image
 # def get_face_encoding(image_path):
 #     image = face_recognition.load_image_file(image_path)
