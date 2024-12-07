@@ -3,5 +3,4 @@ flake8
 pandas
 opencv-python
 face_recognition
-openpyxl
 numpy
